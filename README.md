@@ -1,4 +1,6 @@
-Python-JC-FL
+Python 简明教程
 ============
 
-python教程简介
+目录
+-------
+
